@@ -1,4 +1,5 @@
-﻿//int numberA = 45;
+﻿// Сложить два числа
+//int numberA = 45;
 //int numberB = 23;
 //Console.WriteLine(numberA + numberB); первый вариан 
 //int result = numberA + numberB; второй вариан
